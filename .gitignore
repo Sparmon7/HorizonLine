@@ -1,1 +1,24 @@
+# Data (too big)
 data/
+sample_data/
+hlw_1_2.zip
+
+# Model (too big)
+saved_model/
+
+# Python virtual environments
+.venv/
+.venv310/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings (optional)
+.vscode/
+
+# macOS metadata
+.DS_Store
